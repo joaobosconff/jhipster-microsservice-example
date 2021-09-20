@@ -1,0 +1,9 @@
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/joaobosconff/jhipster-microsservice-gateway
+[submodule "item"]
+	path = item
+	url = https://github.com/joaobosconff/jhipster-microsservice-item
+[submodule "registry"]
+	path = registry
+	url = https://github.com/joaobosconff/jhipster-microsservice-registry
