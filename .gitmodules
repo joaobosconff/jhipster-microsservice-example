@@ -1,9 +1,12 @@
 [submodule "gateway"]
 	path = gateway
 	url = https://github.com/joaobosconff/jhipster-microsservice-gateway
+	branch = main
 [submodule "item"]
 	path = item
 	url = https://github.com/joaobosconff/jhipster-microsservice-item
+	branch = main
 [submodule "registry"]
 	path = registry
 	url = https://github.com/joaobosconff/jhipster-microsservice-registry
+	branch = main
